@@ -1,0 +1,75 @@
+.header { grid-area: header;}
+.navbar { grid-area: navbar;}
+.main { grid-area: main;}
+.right { grid-area: right;}
+.footer { grid-area: footer;}
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+        'header header header header header header'
+        'navbar navbar navbar navbar navbar navbar'
+        'main main main right right right       '
+        'footer footer footer footer footer footer';
+    grid-gap: 50px;
+    padding: 50px;
+    background-color: lightblue;
+}
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+}
+
+.header {
+    position: relative;
+    display: block;
+    border: 5px;
+    padding: 5px;
+/*  background: url(pics/portrait.jpg); */
+    background-color: lightgray;
+    text-align: center;
+}
+.navbar {
+    position: relative;
+    display: block;
+}
+.navbar ul {
+    list-style-type: none;
+    overflow: hidden;
+    border: 1px solid darkgray;
+    background-color: gray;
+}
+.navbar li {
+    float: left;
+}
+.navbar li a {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar li a:hover:not(active) {
+    background-color: darkgray;
+}
+.navbar li a.active {
+    color: black;
+    background-color: lightgray;
+}
+
+.footer {
+    position: relative;
+    display: block;
+    border: 5px;
+    padding: 5px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+body {
+    background-color: gray;
+}
+p {
+    font-family: verdana;
+    font-size: 16px;
+}
