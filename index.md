@@ -1,7 +1,13 @@
 ## Welcome !
 This is me!
+
+
 ![this is me! a joke 😁](./pix/meberg.png)
+
+
 [check out my resume](./aresume)
+
+
 
 This is my website.
 ```
