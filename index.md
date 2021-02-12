@@ -5,8 +5,10 @@ This is me!
 ![this is me! a joke 😁](./pix/meberg.png)
 
 
-[check out my resume](./aresume)
+[check out the website](html.html)
 
+
+[check out my resume](./aresume)
 
 
 This is my website.
