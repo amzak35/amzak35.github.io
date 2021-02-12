@@ -1,6 +1,7 @@
 ## Welcome !
 ![this is me](./pix/meberg.png)
-[check my other website!](https🔗)
+[check my new article!](./articles/article000.html)
+
 This is my website.
 
 ```
