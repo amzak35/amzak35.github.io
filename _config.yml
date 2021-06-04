@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: Merzak AOUDIA # add your name
-author-img: ../pix/meberg.png # add your photo
+author-img: pix/meberg.png # add your photo
 about-author: I am a ... Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
