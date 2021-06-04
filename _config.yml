@@ -1,6 +1,6 @@
 #theme: jekyll-theme-minimal
 title: Hello, world! I'm Merzak AOUDIA
-description: > # this means to ignore newlines until "baseurl:"
+description: what> # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here.
   
 permalink: ':title/'
