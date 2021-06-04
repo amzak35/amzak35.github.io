@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+header {
+    display: flex;
+    background: gray;
+    align-items: center;
+    margin: auto;
+    padding: 50px;
+    width: 60%;
+}
+
+nav {
+    flex: 1;
+}
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.nav-link {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+.navbar > .nav-links > .nav-link > a:hover{
+    color:#121212;
+    background-color: darkgray;
+}
