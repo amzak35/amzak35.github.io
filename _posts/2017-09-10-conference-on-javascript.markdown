@@ -3,7 +3,7 @@ layout: post
 title: "Setup for the WM"
 date: 2021-06-04 14:07
 description: This is my first post
-img: png # Optinal
+img: justanimage.png # Optinal
 fig-caption: Caption
 tags: [Productivity, Workflow] # add tag
 ---
