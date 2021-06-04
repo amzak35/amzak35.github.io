@@ -14,7 +14,5 @@ One!
 ###  Literally pickled twee man braid
 Two!
 
-![Macbook]({{site.baseurl}}/assets/img/justanimage.png)
-
 ### Man bun umami keytar
 Three!
