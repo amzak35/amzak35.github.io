@@ -28,5 +28,6 @@ Put some sort of code here.
 1. Scripts to help me install archlinux
 2. Setting up my WM (dwm or bspwm)
 3. Practical solutions and tweaks to make WM work fine withh all my apps
+[Practical solutions](./articles/notes_practical_solutions.md)
 
 ## Info
