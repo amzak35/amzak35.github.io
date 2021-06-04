@@ -24,4 +24,9 @@ Put some sort of code here.
 2. article two
 3. articel three.
 
+## Notes on personal work env
+1. Scripts to help me install archlinux
+2. Setting up my WM (dwm or bspwm)
+3. Practical solutions and tweaks to make WM work fine withh all my apps
+
 ## Info
