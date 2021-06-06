@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Hello, world!
-description: >
+description: >-
   Descreption One Two Thre ...  # this means to ignore newlines until "baseurl:"
 
 permalink: ':title/'
@@ -10,10 +10,10 @@ url: "www.teachtech.cf" # the base hostname & protocol for your site, e.g. http:
 # Author Settings
 author: Merzak AOUDIA # add your name
 author-img: merzak-aoudia.png # add your photo
-about-author: I am a ... Always hungry to keep learning. # add description
+about-author: I am ... Always hungry to keep learning. # add description
 social-github: amerzak # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: teachtech@teachtech.com # add your Email address
 
 # check it out later
 # Disqus
