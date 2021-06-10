@@ -52,11 +52,10 @@
 }
 .main {
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
     border: 1px solid white;
-    align-items: center;
-    position: absolute;
-    top: 20%;
 }
 
 /* All around */
