@@ -52,10 +52,17 @@
 }
 .main {
     display: flex;
-    justify-content: center;
+    margin: 5%;
+    justify-content: space-around;
     align-items: center;
     flex-direction: column;
     border: 1px solid white;
+}
+.main div {
+    display: flex;
+    margin: 5%;
+    flex-direction: column;
+    justify-content: space-around;
 }
 
 /* All around */
