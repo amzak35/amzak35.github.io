@@ -1,0 +1,55 @@
+<html>
+    <link rel="stylesheet" href="/style.css">
+    <div class="navbar">
+        <ul>
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="/blog/index.html">Articles</a></li>
+            <li><a href="/tutos/index.html">Tutos</a></li>
+            <li><a href="/about.html">About</a></li>
+        </ul>
+    </div>
+    <section class="home">
+        <div class="main">
+            <h4>Using ssh keys to work with github</h4>
+            <p>
+                Today i'll be documenting the way I set up my ssh keys to work
+                with github repositories
+            </p>
+            <h2>Generate ssh keys</h2>
+            <p>
+                ssh-genkey -t TYPE -C "EMAIL@EMAIL.COM"
+                </br>
+                See what do you want to do as for the type, passphrase or not
+                ...
+            </p>
+            <h2>Configuration</h2>
+            <p>
+                create .ssh/config file then configure it to match your hosts
+                and the connection types.</br>
+                See for details on configurations.
+            </p>
+            <h2>Add ssh key to your ssh-agent<h2>
+                    <p>
+                        Start the ssh-agent; eval "$(ssh-agent -s)"</br>
+                        Add your key to it; ssh-add ~/.ssh/KEY_NAME.
+                    </p>
+                    <h2>Add your key to github<h2>
+                            <p>
+                                Copy your public key to the clipboard;
+                                "xclip -sel clip - ~/.ssh/KEY_NAME.pub " </br>
+                                Got to Settings - SSH & GPG KEYS - add ssh
+                                key - pubste your key -- OK
+                            </p>
+                            <h2>Testing<h2>
+                                    <p>
+                                        Test your connection with; ssh -vT
+                                        git@github.com
+                                    </p>
+                                    <h2>Case your remote url is stil in https
+                                    </h2>
+                                    <p>git remote set-url origin
+                                        git@github.com:username/your-repository.git
+                                    </p>
+        </div>
+
+</html>
