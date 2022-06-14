@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zak&#39;s Site</title>
+    <title>Zak&#39;s Site :smiley:</title>
     <link>http://merzakaoudia.xyz/</link>
-    <description>Recent content on Zak&#39;s Site</description>
+    <description>Recent content on Zak&#39;s Site :smiley:</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jun 2022 19:17:27 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/index.xml" rel="self" type="application/rss+xml" />
@@ -44,13 +44,12 @@
     </item>
     
     <item>
-      <title>Firt Post</title>
+      <title>Firt Post :smiley:</title>
       <link>http://merzakaoudia.xyz/posts/firt-post/</link>
       <pubDate>Tue, 14 Jun 2022 18:36:12 +0200</pubDate>
       
       <guid>http://merzakaoudia.xyz/posts/firt-post/</guid>
-      <description>First Post emojify :heart: Hugo!:
-This is my first post, got this from another dude, i&amp;rsquo;ll mention him later on (keeping note of all stolen snippets :smily: )</description>
+      <description>First Post 😃 This is my first post, got this from another dude, i&amp;rsquo;ll mention him later on (keeping note of all stolen snippets 😉 )</description>
     </item>
     
   </channel>
