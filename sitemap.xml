@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://merzakaoudia.xyz/tutos/tuto-bash/</loc>
+    <lastmod>2022-06-14T19:08:48+02:00</lastmod>
+  </url><url>
+    <loc>http://merzakaoudia.xyz/tutos/</loc>
+    <lastmod>2022-06-14T19:08:48+02:00</lastmod>
+  </url><url>
+    <loc>http://merzakaoudia.xyz/</loc>
+    <lastmod>2022-06-14T19:08:48+02:00</lastmod>
+  </url><url>
+    <loc>http://merzakaoudia.xyz/tutos/tuto-vim/</loc>
+    <lastmod>2022-06-14T19:08:38+02:00</lastmod>
+  </url><url>
+    <loc>http://merzakaoudia.xyz/tutos/tuto-arch/</loc>
+    <lastmod>2022-06-14T19:06:58+02:00</lastmod>
+  </url><url>
     <loc>http://merzakaoudia.xyz/posts/firt-post/</loc>
     <lastmod>2022-06-14T18:36:12+02:00</lastmod>
   </url><url>
     <loc>http://merzakaoudia.xyz/posts/</loc>
-    <lastmod>2022-06-14T18:36:12+02:00</lastmod>
-  </url><url>
-    <loc>http://merzakaoudia.xyz/</loc>
     <lastmod>2022-06-14T18:36:12+02:00</lastmod>
   </url><url>
     <loc>http://merzakaoudia.xyz/tags/</loc>
