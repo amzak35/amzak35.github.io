@@ -6,14 +6,21 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jun 2022 16:44:59 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jan 2020 23:11:13 +0000</lastBuildDate><atom:link href="http://merzakaoudia.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>My First Post</title>
       <link>http://merzakaoudia.xyz/posts/first/</link>
-      <pubDate>Tue, 14 Jun 2022 16:44:59 +0200</pubDate>
+      <pubDate>Sun, 26 Jan 2020 23:11:13 +0000</pubDate>
       
       <guid>http://merzakaoudia.xyz/posts/first/</guid>
-      <description>Post This is my first post</description>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Pellentesque eu tincidunt tortor
+aliquam nulla facilisi cras fermentum odio. A erat nam at lectus urna duis.
+Sed velit dignissim sodales ut eu sem. Lectus urna duis convallis convallis
+tellus. Diam sit amet nisl suscipit adipiscing bibendum est. Sed felis eget
+velit aliquet sagittis id consectetur. Vulputate dignissim suspendisse in est
+ante in nibh mauris cursus. Morbi quis commodo odio aenean. Mollis nunc sed id
+semper risus in hendrerit gravida rutrum.&lt;/p&gt;</description>
     </item>
     
   </channel>
