@@ -1,3 +1,16 @@
+:root {
+  --bg: white;
+  --text-color: black;
+  --link-color: gray;
+  --link-hover: lightgray;
+}
+.funky {
+  --bg: black;
+  --text-color: white;
+  --link-color: grey;
+  --link-hover: lightgrey;
+}
+
 @font-face {
     font-family: 'Norican';
     src: url(../fonts/Norican/Norican-Regular.otf);
@@ -27,6 +40,8 @@
 }
 
 h1.title {
+    background: inherit;
+    color: var(--text-color);
     font-family: 'Norican';
     font-size: 400%;
 }
@@ -55,12 +70,12 @@ img {
 }
 
 a.title:link, a.title:visited, a.title:hover, a.title:active {
-    color: black;
+    color: var(--text-color);
     text-decoration: none;
 }
 
 a.summary:link, a.summary:visited, a.summary:hover, a.summary:active {
-    color: black;
+    color: var(--text-color);
     text-decoration: none;
 }
 
