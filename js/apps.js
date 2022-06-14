@@ -1,21 +1,18 @@
-let toggle = document.querySelector('.toggle-theme');
-
-// Turn the theme off if the 'funky' key exists in localStorage
-if (localStorage.getItem('funky')) {
-  document.body.classList.add('funky');
-  toggle.innerText = 'Turn theme off';
-}
-
-toggle.addEventListener('click', function(e) {
-  e.preventDefault();
-
-  if (document.body.classList.contains('funky')) {
-    document.body.classList.remove('funky');
-    toggle.innerText = 'Turn theme on';
-    localStorage.removeItem('funky');
-  } else {
-    document.body.classList.add('funky');
-    toggle.innerText = 'Turn theme off';
-    localStorage.setItem('funky', true);
-  }
+$(document).ready(function() {
+    $("#color_mode").on("change", function () {
+        colorModePreview(this);
+    })
 });
+
+function colorModePreview(ele) {
+    if($(ele).prop("checked") == true){
+      if(mode == "w") {
+        $('body').addClass('dark-preview');
+        $('body').removeClass('white-preview');
+      }
+    }
+    else if($(ele).prop("checked") == false){
+        $('body').addClass('white-preview');
+        $('body').removeClass('dark-preview');
+    }
+}
