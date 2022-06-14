@@ -6,7 +6,16 @@
     <description>Recent content on Zak&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jun 2022 15:38:20 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 15:46:15 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://merzakaoudia.xyz/pages/about/</link>
+      <pubDate>Tue, 14 Jun 2022 15:46:15 +0200</pubDate>
+      
+      <guid>http://merzakaoudia.xyz/pages/about/</guid>
+      <description>This is my website This is a personal website</description>
+    </item>
+    
     <item>
       <title>My Second Post</title>
       <link>http://merzakaoudia.xyz/posts/my-second-post/</link>
