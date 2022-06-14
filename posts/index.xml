@@ -6,14 +6,24 @@
     <description>Recent content in Posts on Zak&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jun 2022 18:36:12 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 19:17:27 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji Support</title>
+      <link>http://merzakaoudia.xyz/posts/emoji-support/</link>
+      <pubDate>Tue, 14 Jun 2022 19:17:27 +0200</pubDate>
+      
+      <guid>http://merzakaoudia.xyz/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Firt Post</title>
       <link>http://merzakaoudia.xyz/posts/firt-post/</link>
       <pubDate>Tue, 14 Jun 2022 18:36:12 +0200</pubDate>
       
       <guid>http://merzakaoudia.xyz/posts/firt-post/</guid>
-      <description>First Post This is my first post, got this from another dude, i&amp;rsquo;ll mention him later on (keeping note of all stolen snippets ;) )</description>
+      <description>First Post emojify :heart: Hugo!:
+This is my first post, got this from another dude, i&amp;rsquo;ll mention him later on (keeping note of all stolen snippets :smily: )</description>
     </item>
     
   </channel>
