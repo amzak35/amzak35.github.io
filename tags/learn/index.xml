@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learn on Zak&#39;s Site</title>
+    <link>http://merzakaoudia.xyz/tags/learn/</link>
+    <description>Recent content in learn on Zak&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 19:06:58 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/tags/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tuto Arch</title>
+      <link>http://merzakaoudia.xyz/tutos/tuto-arch/</link>
+      <pubDate>Tue, 14 Jun 2022 19:06:58 +0200</pubDate>
+      
+      <guid>http://merzakaoudia.xyz/tutos/tuto-arch/</guid>
+      <description>First tutorial In this first tutorial i&amp;rsquo;m going to set up arch from scratch to get to a fully functionning system with a minimal gui (wm) &amp;hellip; stay tuned.</description>
+    </item>
+    
+  </channel>
+</rss>
