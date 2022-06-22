@@ -1,18 +1,24 @@
-$(document).ready(function() {
-    $("#color_mode").on("change", function () {
-        colorModePreview(this);
-    })
+const themes = {
+    light: {
+        '--primaryColor': 'white',
+        '--secondaryColor': 'black'
+    },
+    dark: {
+        '--primaryColor': 'black',
+        '--secondaryColor': 'white'
+    }
+}
+var themeIndex = 0;
+document.getElementById('change').addEventListener('click',function(){
+	themeIndex++;
+	var themeCount = Object.keys(themes).length;
+    themeIndex = themeIndex <= themeCount-1 ? themeIndex : 0;
+    var theme = themes[Object.keys(themes)[themeIndex]];
+    activateTheme(theme);
 });
 
-function colorModePreview(ele) {
-    if($(ele).prop("checked") == true){
-      if(mode == "w") {
-        $('body').addClass('dark-preview');
-        $('body').removeClass('white-preview');
-      }
-    }
-    else if($(ele).prop("checked") == false){
-        $('body').addClass('white-preview');
-        $('body').removeClass('dark-preview');
+function activateTheme(theme){
+    for (let prop in theme){
+        document.querySelector(':root').style.setProperty(prop, theme[prop]);
     }
 }

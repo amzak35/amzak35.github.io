@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Zak&#39;s Site :smiley:</title>
+    <title>Tags on Site Under Construction 🚧</title>
     <link>http://merzakaoudia.xyz/tags/</link>
-    <description>Recent content in Tags on Zak&#39;s Site :smiley:</description>
+    <description>Recent content in Tags on Site Under Construction 🚧</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jun 2022 19:17:27 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>emoji</title>
-      <link>http://merzakaoudia.xyz/tags/emoji/</link>
-      <pubDate>Tue, 14 Jun 2022 19:17:27 +0200</pubDate>
-      
-      <guid>http://merzakaoudia.xyz/tags/emoji/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 14 Jun 2022 19:06:58 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>learn</title>
       <link>http://merzakaoudia.xyz/tags/learn/</link>
