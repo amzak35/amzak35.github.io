@@ -1,0 +1,10 @@
+header {
+  margins: 5px;
+  padding: 5px 50px;
+  background-color: #292c2f;
+	font-size: 22pt ;
+}
+header .navbar {
+  text-align: center;
+  color: #8f9296;
+}

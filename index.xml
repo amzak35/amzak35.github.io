@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jun 2022 19:08:48 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://merzakaoudia.xyz/about/</link>
+      <pubDate>Fri, 24 Jun 2022 18:51:30 +0200</pubDate>
+      
+      <guid>http://merzakaoudia.xyz/about/</guid>
+      <description>About me </description>
+    </item>
+    
+    <item>
       <title>Tuto Bash</title>
       <link>http://merzakaoudia.xyz/tutos/tuto-bash/</link>
       <pubDate>Tue, 14 Jun 2022 19:08:48 +0200</pubDate>
@@ -31,17 +40,26 @@
       <pubDate>Tue, 14 Jun 2022 19:06:58 +0200</pubDate>
       
       <guid>http://merzakaoudia.xyz/tutos/tuto-arch/</guid>
-      <description>First tutorial In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system with a minimal gui, hopefully my own window manager (project in the works) &amp;hellip; Stay tuned folks!</description>
+      <description>First tutorial In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system with a minimal gui, hopefully my own window manager (project in the works) &amp;hellip; Stay tuned folks! In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system with a minimal gui, hopefully my own window manager (project in the works) &amp;hellip; Stay tuned folks!</description>
     </item>
     
     <item>
-      <title>Placeholder Post :smiley:</title>
+      <title>Placeholder Post</title>
       <link>http://merzakaoudia.xyz/posts/firt-post/</link>
       <pubDate>Tue, 14 Jun 2022 18:36:12 +0200</pubDate>
       
       <guid>http://merzakaoudia.xyz/posts/firt-post/</guid>
-      <description>First Post 😃 This is my first post, it is just a Placeholder for what&amp;rsquo;s coming your way.
+      <description>First Post This is my first post, it is just a Placeholder for what&amp;rsquo;s coming your way.
 **N.B.** Tech blog e.g. </description>
+    </item>
+    
+    <item>
+      <title>404 Page not found</title>
+      <link>http://merzakaoudia.xyz/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://merzakaoudia.xyz/404.html</guid>
+      <description>404 Error This page has not been found ou are advised to head back home here. </description>
     </item>
     
   </channel>
