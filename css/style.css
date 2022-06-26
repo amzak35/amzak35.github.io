@@ -35,7 +35,7 @@ body {
 	text-align: center;
 }
 .cloud {
-	padding: 200px 500px 500px 500px;
+	padding: auto;
 	color: red;
 	display: flex;
   flex-wrap: wrap;
