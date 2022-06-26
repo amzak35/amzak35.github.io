@@ -19,15 +19,23 @@ body {
 	color: var(--color-text-default);
   margin: auto;
   width: 80%;
-  text-align: center;
+  text-align: left;
 }
 #content a {
   color: white;
+	text-decoration: underline ;
 }
 #content  h2, h3, h4, h5, h6, p {
 	font-family: "Garamond" ;
 	text-align: left;
   color: white;
+}
+#content h1 {
+	color: lightblue;
+}
+#tagcloud a {
+	color: blue;
+	text-align: center;
 }
 
 /* colors */
@@ -45,8 +53,8 @@ h4 { color: var(--blue) ; }
 
 a {
 	color: var(--link) ;
-	text-decoration: none ;
+	text-decoration: underline ;
 }
 a:hover {
-	color: var(--linksec) ;
+	color: var(--color-accent) ;
 }

@@ -6,14 +6,25 @@
     <description>Recent content on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jun 2022 19:08:48 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 14:55:00 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Cryptography</title>
+      <link>http://merzakaoudia.xyz/tutos/cryptography/</link>
+      <pubDate>Sun, 26 Jun 2022 14:55:00 +0200</pubDate>
+      
+      <guid>http://merzakaoudia.xyz/tutos/cryptography/</guid>
+      <description>Cryptography This is going to be an introduction to cryptography, history and theory, but the ultimate goal is to understand that it is useful and we the average people need to learn about it and how to use it.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>http://merzakaoudia.xyz/about/</link>
       <pubDate>Fri, 24 Jun 2022 18:51:30 +0200</pubDate>
       
       <guid>http://merzakaoudia.xyz/about/</guid>
-      <description>About me </description>
+      <description>About me I&amp;rsquo;m a Data engineer, BI Consultant, Cyber security and Linux enthusiast, I love and support Free &amp;amp; Open-source software.
+I&amp;rsquo;ve been a self taught &amp;ldquo;Hacker&amp;rdquo; my whole life, tinkering with technology and stuff. The internet has always been my source of knowledge, therefore I&amp;rsquo;m making it my purpose and goal to give back to the community (to the best and limited abilities).
+So, this website&amp;rsquo;s aim is to provide various tutorials on tech, but more importantly, to raise awareness on Free &amp;amp; Open-source software, and help bring non technical people to understand computers and the way they&amp;rsquo;re supposed to serve us (our needs).</description>
     </item>
     
     <item>
@@ -22,7 +33,9 @@
       <pubDate>Tue, 14 Jun 2022 19:08:48 +0200</pubDate>
       
       <guid>http://merzakaoudia.xyz/tutos/tuto-bash/</guid>
-      <description>Bash scripting tutorial on the way </description>
+      <description>Intro Now that we have a fully functioning Gnu/Linux operating system, we need to learn how to maintain it in a efficient way.
+With the help of Bash
+What is Bash Why learn Bash Some other Shells </description>
     </item>
     
     <item>
@@ -31,16 +44,21 @@
       <pubDate>Tue, 14 Jun 2022 19:08:38 +0200</pubDate>
       
       <guid>http://merzakaoudia.xyz/tutos/tuto-vim/</guid>
-      <description>Vi/Vim/Nvim in the works </description>
+      <description>Vi/Vim/Nvim in the works This is not going to be a full on tutorial on these programs, but only a showcase of the logic, method and usefulness of these programs.
+The aim here is to demystify and debunk the myths surrounding them.
+Happy reading.
+What is Vi Vi is a terminal based text editor, a very powerful one, with a somewhat steep learning curve. Lot of people (Even some technical savvy ones) are afraid of it, they find it complicated to use and non user friendly, when in reality, all it takes is the willingness to try it without the prejudice surrounding it.</description>
     </item>
     
     <item>
-      <title>Tuto Arch</title>
+      <title>Setting up a Gnu/Linux operating system for the Desktop/Laptob usage</title>
       <link>http://merzakaoudia.xyz/tutos/tuto-arch/</link>
       <pubDate>Tue, 14 Jun 2022 19:06:58 +0200</pubDate>
       
       <guid>http://merzakaoudia.xyz/tutos/tuto-arch/</guid>
-      <description>First tutorial In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system with a minimal gui, hopefully my own window manager (project in the works) &amp;hellip; Stay tuned folks! In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system In this first tutorial I&amp;rsquo;m going to set up Arch Linux from the ground up (not as in LFS though) to get to a fully functioning system with a minimal gui, hopefully my own window manager (project in the works) &amp;hellip; Stay tuned folks!</description>
+      <description>Goals The aim from this tutorial is to learn to install and setup Archlinux.
+Why Arch? Well, Other than it being my daily driver therefore I&amp;rsquo;m more familiar and confortable setting it up, I chose Arch because it gives you full control on the programs and utilities you can install, witch makes it easy to showcase and learn a lot of things about the way Gnu/Linux operates.
+Another goal is to showcase and introduce you to the programs I run on my computer that could replace a lot of proprietary garbage a lot of us got used to.</description>
     </item>
     
     <item>
@@ -49,8 +67,8 @@
       <pubDate>Tue, 14 Jun 2022 18:36:12 +0200</pubDate>
       
       <guid>http://merzakaoudia.xyz/posts/firt-post/</guid>
-      <description>First Post This is my first post, it is just a Placeholder for what&amp;rsquo;s coming your way.
-**N.B.** Tech blog e.g. </description>
+      <description>First Post This is just a Placeholder for what&amp;rsquo;s coming your way.
+NB: This is a Tech blog.</description>
     </item>
     
     <item>
