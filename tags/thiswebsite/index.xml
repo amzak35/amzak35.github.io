@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thiswebsite on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</title>
-    <link>http://merzakaoudia.xyz/tags/thiswebsite/</link>
+    <link>https://merzakaoudia.xyz/tags/thiswebsite/</link>
     <description>Recent content in thiswebsite on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jun 2022 18:36:12 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/tags/thiswebsite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 18:36:12 +0200</lastBuildDate><atom:link href="https://merzakaoudia.xyz/tags/thiswebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Post</title>
-      <link>http://merzakaoudia.xyz/posts/firt-post/</link>
+      <link>https://merzakaoudia.xyz/posts/firt-post/</link>
       <pubDate>Tue, 14 Jun 2022 18:36:12 +0200</pubDate>
       
-      <guid>http://merzakaoudia.xyz/posts/firt-post/</guid>
+      <guid>https://merzakaoudia.xyz/posts/firt-post/</guid>
       <description>First Post This is just a Placeholder for what&amp;rsquo;s coming your way.
 NB: This is a Tech blog.</description>
     </item>

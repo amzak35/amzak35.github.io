@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</title>
-    <link>http://merzakaoudia.xyz/tags/learn/</link>
+    <link>https://merzakaoudia.xyz/tags/learn/</link>
     <description>Recent content in Learn on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 14:55:00 +0200</lastBuildDate><atom:link href="http://merzakaoudia.xyz/tags/learn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 14:55:00 +0200</lastBuildDate><atom:link href="https://merzakaoudia.xyz/tags/learn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Cryptography</title>
-      <link>http://merzakaoudia.xyz/tutos/cryptography/</link>
+      <link>https://merzakaoudia.xyz/tutos/cryptography/</link>
       <pubDate>Sun, 26 Jun 2022 14:55:00 +0200</pubDate>
       
-      <guid>http://merzakaoudia.xyz/tutos/cryptography/</guid>
+      <guid>https://merzakaoudia.xyz/tutos/cryptography/</guid>
       <description>Cryptography This is going to be an introduction to cryptography, history and theory, but the ultimate goal is to understand that it is useful and we the average people need to learn about it and how to use it.</description>
     </item>
     
     <item>
       <title>Setting up a Gnu/Linux operating system for the Desktop/Laptob usage</title>
-      <link>http://merzakaoudia.xyz/tutos/tuto-arch/</link>
+      <link>https://merzakaoudia.xyz/tutos/tuto-arch/</link>
       <pubDate>Tue, 14 Jun 2022 19:06:58 +0200</pubDate>
       
-      <guid>http://merzakaoudia.xyz/tutos/tuto-arch/</guid>
+      <guid>https://merzakaoudia.xyz/tutos/tuto-arch/</guid>
       <description>Goals The aim from this tutorial is to learn to install and setup Archlinux.
 Why Arch? Well, Other than it being my daily driver therefore I&amp;rsquo;m more familiar and confortable setting it up, I chose Arch because it gives you full control on the programs and utilities you can install, witch makes it easy to showcase and learn a lot of things about the way Gnu/Linux operates.
 Another goal is to showcase and introduce you to the programs I run on my computer that could replace a lot of proprietary garbage a lot of us got used to.</description>
