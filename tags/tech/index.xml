@@ -2,53 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</title>
-    <link>https://merzakaoudia.xyz/tags/tech/</link>
+    <link>http://localhost:1313/tags/tech/</link>
     <description>Recent content in Tech on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 14:55:00 +0200</lastBuildDate><atom:link href="https://merzakaoudia.xyz/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 14:55:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Cryptography</title>
-      <link>https://merzakaoudia.xyz/tutos/cryptography/</link>
+      <link>http://localhost:1313/tutos/cryptography/</link>
       <pubDate>Sun, 26 Jun 2022 14:55:00 +0200</pubDate>
-      
-      <guid>https://merzakaoudia.xyz/tutos/cryptography/</guid>
+      <guid>http://localhost:1313/tutos/cryptography/</guid>
       <description>Cryptography This is going to be an introduction to cryptography, history and theory, but the ultimate goal is to understand that it is useful and we the average people need to learn about it and how to use it.</description>
     </item>
-    
     <item>
       <title>Tuto Bash</title>
-      <link>https://merzakaoudia.xyz/tutos/tuto-bash/</link>
+      <link>http://localhost:1313/tutos/tuto-bash/</link>
       <pubDate>Tue, 14 Jun 2022 19:08:48 +0200</pubDate>
-      
-      <guid>https://merzakaoudia.xyz/tutos/tuto-bash/</guid>
-      <description>Intro Now that we have a fully functioning Gnu/Linux operating system, we need to learn how to maintain it in a efficient way.
-With the help of Bash
-What is Bash Why learn Bash Some other Shells </description>
+      <guid>http://localhost:1313/tutos/tuto-bash/</guid>
+      <description>Intro Now that we have a fully functioning Gnu/Linux operating system, we need to learn how to maintain it in a efficient way.&#xA;With the help of Bash&#xA;What is Bash Why learn Bash Some other Shells </description>
     </item>
-    
     <item>
       <title>Tuto Vim</title>
-      <link>https://merzakaoudia.xyz/tutos/tuto-vim/</link>
+      <link>http://localhost:1313/tutos/tuto-vim/</link>
       <pubDate>Tue, 14 Jun 2022 19:08:38 +0200</pubDate>
-      
-      <guid>https://merzakaoudia.xyz/tutos/tuto-vim/</guid>
-      <description>Vi/Vim/Nvim in the works This is not going to be a full on tutorial on these programs, but only a showcase of the logic, method and usefulness of these programs.
-The aim here is to demystify and debunk the myths surrounding them.
-Happy reading.
-What is Vi Vi is a terminal based text editor, a very powerful one, with a somewhat steep learning curve. Lot of people (Even some technical savvy ones) are afraid of it, they find it complicated to use and non user friendly, when in reality, all it takes is the willingness to try it without the prejudice surrounding it.</description>
+      <guid>http://localhost:1313/tutos/tuto-vim/</guid>
+      <description>Vi/Vim/Nvim in the works This is not going to be a full on tutorial on these programs, but only a showcase of the logic, method and usefulness of these programs.&#xA;The aim here is to demystify and debunk the myths surrounding them.&#xA;Happy reading.&#xA;What is Vi Vi is a terminal based text editor, a very powerful one, with a somewhat steep learning curve. Lot of people (Even some technical savvy ones) are afraid of it, they find it complicated to use and non user friendly, when in reality, all it takes is the willingness to try it without the prejudice surrounding it.</description>
     </item>
-    
     <item>
       <title>Setting up a Gnu/Linux operating system for the Desktop/Laptob usage</title>
-      <link>https://merzakaoudia.xyz/tutos/tuto-arch/</link>
+      <link>http://localhost:1313/tutos/tuto-arch/</link>
       <pubDate>Tue, 14 Jun 2022 19:06:58 +0200</pubDate>
-      
-      <guid>https://merzakaoudia.xyz/tutos/tuto-arch/</guid>
-      <description>Goals The aim from this tutorial is to learn to install and setup Archlinux.
-Why Arch? Well, Other than it being my daily driver therefore I&amp;rsquo;m more familiar and confortable setting it up, I chose Arch because it gives you full control on the programs and utilities you can install, witch makes it easy to showcase and learn a lot of things about the way Gnu/Linux operates.
-Another goal is to showcase and introduce you to the programs I run on my computer that could replace a lot of proprietary garbage a lot of us got used to.</description>
+      <guid>http://localhost:1313/tutos/tuto-arch/</guid>
+      <description>Goals The aim from this tutorial is to learn to install and setup Archlinux.&#xA;Why Arch? Well, Other than it being my daily driver therefore I&amp;rsquo;m more familiar and confortable setting it up, I chose Arch because it gives you full control on the programs and utilities you can install, witch makes it easy to showcase and learn a lot of things about the way Gnu/Linux operates.&#xA;Another goal is to showcase and introduce you to the programs I run on my computer that could replace a lot of proprietary garbage a lot of us got used to.</description>
     </item>
-    
   </channel>
 </rss>

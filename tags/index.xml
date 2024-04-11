@@ -6,42 +6,6 @@
     <description>Recent content in Tags on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 14:55:00 +0200</lastBuildDate><atom:link href="https://merzakaoudia.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Crypto</title>
-      <link>https://merzakaoudia.xyz/tags/crypto/</link>
-      <pubDate>Sun, 26 Jun 2022 14:55:00 +0200</pubDate>
-      
-      <guid>https://merzakaoudia.xyz/tags/crypto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learn</title>
-      <link>https://merzakaoudia.xyz/tags/learn/</link>
-      <pubDate>Sun, 26 Jun 2022 14:55:00 +0200</pubDate>
-      
-      <guid>https://merzakaoudia.xyz/tags/learn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://merzakaoudia.xyz/tags/tech/</link>
-      <pubDate>Sun, 26 Jun 2022 14:55:00 +0200</pubDate>
-      
-      <guid>https://merzakaoudia.xyz/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thiswebsite</title>
-      <link>https://merzakaoudia.xyz/tags/thiswebsite/</link>
-      <pubDate>Tue, 14 Jun 2022 18:36:12 +0200</pubDate>
-      
-      <guid>https://merzakaoudia.xyz/tags/thiswebsite/</guid>
-      <description></description>
-    </item>
-    
+    <atom:link href="https://merzakaoudia.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
