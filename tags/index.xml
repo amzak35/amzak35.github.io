@@ -1,11 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</title>
-    <link>https://merzakaoudia.xyz/tags/</link>
-    <description>Recent content in Tags on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://merzakaoudia.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - Tag - 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Jun 2022 14:55:00 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Crypto</title>
+    <link>http://localhost:1313/tags/crypto/</link>
+    <pubDate>Sun, 26 Jun 2022 14:55:00 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/tags/crypto/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Learn</title>
+    <link>http://localhost:1313/tags/learn/</link>
+    <pubDate>Sun, 26 Jun 2022 14:55:00 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/tags/learn/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Tech</title>
+    <link>http://localhost:1313/tags/tech/</link>
+    <pubDate>Sun, 26 Jun 2022 14:55:00 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/tags/tech/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Thiswebsite</title>
+    <link>http://localhost:1313/tags/thiswebsite/</link>
+    <pubDate>Tue, 14 Jun 2022 18:36:12 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/tags/thiswebsite/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

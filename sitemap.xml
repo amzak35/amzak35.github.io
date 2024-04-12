@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://merzakaoudia.xyz/</loc>
-    <lastmod>2022-06-26T14:55:00+02:00</lastmod>
-  </url><url>
-    <loc>https://merzakaoudia.xyz/tutos/</loc>
-    <lastmod>2022-06-26T14:55:00+02:00</lastmod>
-  </url><url>
-    <loc>https://merzakaoudia.xyz/posts/</loc>
-    <lastmod>2022-06-14T18:36:12+02:00</lastmod>
-  </url><url>
-    <loc>https://merzakaoudia.xyz/tags/</loc>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://localhost:1313/</loc><lastmod>2022-06-26T14:55:00&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/crypto/</loc><lastmod>2022-06-26T14:55:00&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tutos/cryptography/</loc><lastmod>2022-06-26T14:55:00&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/learn/</loc><lastmod>2022-06-26T14:55:00&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2022-06-26T14:55:00&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/tech/</loc><lastmod>2022-06-26T14:55:00&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tutos/</loc><lastmod>2022-06-26T14:55:00&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/about/</loc><lastmod>2022-06-24T18:51:30&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tutos/tuto-bash/</loc><lastmod>2022-06-14T19:08:48&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tutos/tuto-vim/</loc><lastmod>2022-06-14T19:08:38&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tutos/tuto-arch/</loc><lastmod>2022-06-14T19:06:58&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/firt-post/</loc><lastmod>2022-06-14T18:36:12&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2022-06-14T18:36:12&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/thiswebsite/</loc><lastmod>2022-06-14T18:36:12&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/404.html</loc></url></urlset>
