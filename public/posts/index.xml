@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 🚧 👷 🛠️ Site Under Construction 🛠️ 👷 🚧</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 18:36:12 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Placeholder Post</title>
+      <link>http://localhost:1313/posts/firt-post/</link>
+      <pubDate>Tue, 14 Jun 2022 18:36:12 +0200</pubDate>
+      <guid>http://localhost:1313/posts/firt-post/</guid>
+      <description>First Post This is just a Placeholder for what&amp;rsquo;s coming your way.&#xA;NB: This is a Tech blog.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+@import "colors.css";
+@import "header.css";
+@import "footer.css";
+
+body {
+	display: flex;
+	flex-direction: column;
+	background: var(--bg);
+	margin-bottom:50px;
+}
+
+.jumbotron {
+  color: black;
+  text-align: center;
+}
+
+#content {
+	padding: auto;
+	color: var(--color-text-default);
+  margin: auto;
+  width: 80%;
+  text-align: left;
+}
+#content a {
+  color: white;
+	text-decoration: underline ;
+}
+#content  h2, h3, h4, h5, h6, p {
+	font-family: "Garamond" ;
+	text-align: left;
+  color: white;
+}
+#content h1 {
+	color: lightblue;
+	text-align: center;
+}
+.cloud {
+	padding: auto;
+	color: red;
+	display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.tagcloud a {
+	color: #a33;
+  display: inline;
+  font-size: 22pt;
+  text-decoration: none;
+  position: relative;
+	padding :auto;
+}
+
+/* colors */
+
+code {
+	color: #00dd00 ;
+	overflow-wrap: break-word ;
+	font-size: 12pt ;
+}
+
+h1 { color: var(--h1) ; }
+h2 { color: var(--yellow) ; }
+h3 { color: var(--red) ; }
+h4 { color: var(--blue) ; }
+p  { color: var(--color-text-default); font-family: "Garamond" ; }
+
+a {
+	color: var(--link) ;
+	text-decoration: underline ;
+}
+a:hover {
+	color: var(--color-accent) ;
+}
